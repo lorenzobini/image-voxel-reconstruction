@@ -1,0 +1,3 @@
+﻿  Scene3DRenderer.cpp
+C:\Users\Lorenzo\Desktop\University\Computer Vision\Code\VoxelReconstruction\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(122,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VoxelReconstruction.vcxproj -> C:\Users\Lorenzo\Desktop\University\Computer Vision\Code\VoxelReconstruction\VoxelReconstruction\x64\Debug\VoxelReconstruction.exe
